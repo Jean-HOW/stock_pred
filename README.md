@@ -1,1 +1,2 @@
-# generate_pw()
+# Random Password Generator
+#### generate_pw("password lenght")
