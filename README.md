@@ -1,2 +1,1 @@
-# Random Password Generator
-#### generate_pw("password lenght")
+# Stock price prediction
