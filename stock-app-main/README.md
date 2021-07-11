@@ -22,7 +22,7 @@ streamlit run app.py
 ### Download ticker symbol
 https://github.com/Jean-HOW/stock_pred/blob/main/stock-app-main/ticker_symbol.csv
 
-## References
+### References
 
-Data Professor: https://www.youtube.com/watch?v=0pHJOzNDdOo&t=57s
-Streamlit: https://docs.streamlit.io/en/stable/
+1. Data Professor: https://www.youtube.com/watch?v=0pHJOzNDdOo&t=57s
+2. Streamlit: https://docs.streamlit.io/en/stable/
