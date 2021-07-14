@@ -42,3 +42,17 @@ def generate_pw(pw_len):
             password = password + x 
     return password
 
+# Simple password version
+import random
+
+char = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$^&*(')"
+
+while True:
+    password_len = int(input("What length would you like your password to be: "))
+    password_count = int(input("How many password would you like: "))
+    for x in range(0, password_count):
+        password = ""
+        for x in range(0, password_len):
+            password_char = random.choice(char)
+            password = password + password_char
+        print("Here is your password: ", password)
