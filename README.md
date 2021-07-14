@@ -19,3 +19,13 @@
 ### Forecast components
 
 ![alt text](https://github.com/Jean-HOW/stock_pred/blob/main/stock-app-main/app_example/sample3.JPG)
+
+### Cross-validation
+
+![alt text](https://github.com/Jean-HOW/stock_pred/blob/main/stock-app-main/app_example/1.JPG)
+
+![alt text](https://github.com/Jean-HOW/stock_pred/blob/main/stock-app-main/app_example/2.JPG)
+
+![alt text](https://github.com/Jean-HOW/stock_pred/blob/main/stock-app-main/app_example/3.JPG)
+
+![alt text](https://github.com/Jean-HOW/stock_pred/blob/main/stock-app-main/app_example/4.JPG)
