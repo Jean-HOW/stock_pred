@@ -1,5 +1,7 @@
 # Stock price prediction
 
+This stock price prediction web application is created using Streamlit. It allows 1 to 3 years of prediction based on the United States of America's (USA's) stock market.
+
 ### Input Data (Start date, end date, forecasting year)
 
 ![alt text](https://github.com/Jean-HOW/stock_pred/blob/main/stock-app-main/app_example/sample.JPG)
