@@ -7,3 +7,4 @@ numpy==1.18.1
 yfinance==0.1.63
 lxml==4.6.3
 plotly==5.1.0
+pystan==2.19.1.1
