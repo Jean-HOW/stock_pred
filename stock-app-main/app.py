@@ -24,7 +24,7 @@ start_date = st.sidebar.date_input("Start date", datetime.datetime(2010, 1, 1))
 end_date = st.sidebar.date_input("End date", datetime.datetime(2021, 12, 31))
 
 # Retrieving tickers data
-ticker_list = pd.read_csv('ticker_symbol.csv')
+ticker_list = pd.read_csv('https://github.com/Jean-HOW/stock_prediction/blob/main/stock-app-main/ticker_symbol.csv')
 tickerSymbol = st.sidebar.selectbox('Stock ticker', ticker_list) # Select ticker symbol
 
 n_years = st.slider("Years of prediction:", 1 , 3)
