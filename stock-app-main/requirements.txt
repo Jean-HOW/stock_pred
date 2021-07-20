@@ -5,7 +5,7 @@ base58==2.1.0
 fbprophet==0.7.1
 prophet==1.0.1
 numpy==1.18.1
-finance==0.1.63
+yfinance==0.1.63
 lxml==4.6.3
 plotly==5.1.0
 pystan==2.19.1.1
