@@ -11,13 +11,14 @@ streamlit run app.py
 ```
 
 ### Packages & tools (versions)
-- python==3.7.6
 - streamlit==0.84.0
+- pandas==1.3.0
 - yfinance==0.1.63
-- pandas==1.14.0
-- datetime==4.3
-- pystan==2.19.1.1
 - fbprophet==0.7.1
+- DateTime==4.3
+- lxml==4.6.3
+- plotly==5.1.0
+- pystan==2.19.1.1
 
 ### Download ticker symbol
 https://github.com/Jean-HOW/stock_pred/blob/main/stock-app-main/ticker_symbol.csv
